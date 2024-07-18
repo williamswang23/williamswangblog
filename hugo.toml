@@ -1,7 +1,10 @@
-baseURL = "williamswang.win"
+baseURL = "https://williamswang.win"
 languageCode = "en-us"
 title = "Williams Wang Site"
 theme = "ananke"
+
+relativeURLs = true
+canonifyURLs = true
 
 [params]
   author = "Williams Wang"
