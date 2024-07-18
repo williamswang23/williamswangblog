@@ -1,9 +1,9 @@
 baseURL = "williamswang.win"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Williams Wang Site"
 theme = "ananke"
 
 [params]
-  author = "Your Name"
-  description = "A description of your site"
+  author = "Williams Wang"
+  description = "Williams Wang Blog"
 
