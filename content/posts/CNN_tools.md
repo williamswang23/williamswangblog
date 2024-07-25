@@ -6,6 +6,6 @@ draft = false
 # CNN tools
 
 ## CNN Dimension Calculator
-[CNN Dimension Calculator](cnndcal.williamswang.win)
+[CNN Dimension Calculator](https://cnndcal.williamswang.win)
 
 ## More Tools...
