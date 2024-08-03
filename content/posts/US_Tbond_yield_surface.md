@@ -5,4 +5,4 @@ draft = false
 +++
 # US T-bond Yield Surface From 1990 to 20240803
 
-{{< embed-plot >}}
+{{< embed-usbdy >}}
