@@ -1,19 +1,19 @@
++++
 title = 'Elon_musk_humanity'
-date = 2024-08-04T17:57:39+08:00
+date = 2024-08-04T19:16:23+08:00
 draft = false
-
 +++
 
 # Elon Musk: Neuralink and the Future of Humanity
 
 分享这篇访谈字幕的缘由是看到了下面的图片， Raptor发动机的进化过程。 我不禁在想， 最优的解决方案是发明还是发现？不论如何， 这个过程都体现了工程学上的重大价值。尽管对EM本人的行事风格持保留态度。
 
+
 ![raptor](https://i.imgur.com/km9CPhm.jpeg)
 
 
-
 Lex Fridman和Elon Musk的访谈，全程8.5小时。
-推荐可用的情况下观看原视频：[(394) Elon Musk: Neuralink and the Future of Humanity | Lex Fridman Podcast #438 - YouTube](https://www.youtube.com/watch?v=Kbk9BiPhm7o)
+推荐可用的情况下观看原视频：(394) Elon Musk: Neuralink and the Future of Humanity | Lex Fridman Podcast #438 - YouTube
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Kbk9BiPhm7o?si=iMOGZ6XA5QBSGfPL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -9025,3 +9025,4 @@ Neuralink真的可以移动山岳，
 从家庭到国家，每个人类群体都是一处孤岛的社会。  
 
 感谢你的倾听，希望下次见到你。
+

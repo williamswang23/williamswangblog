@@ -2,60 +2,60 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Williams Wang Site</title>
-    <link>https://williamswang.win/posts/</link>
+    <link>http://localhost:1313/posts/</link>
     <description>Recent content in Posts on Williams Wang Site</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 03 Aug 2024 15:31:40 +0800</lastBuildDate>
-    <atom:link href="https://williamswang.win/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 04 Aug 2024 19:16:23 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Elon_musk_humanity</title>
+      <link>http://localhost:1313/posts/elon_musk_humanity/</link>
+      <pubDate>Sun, 04 Aug 2024 19:16:23 +0800</pubDate>
+      <guid>http://localhost:1313/posts/elon_musk_humanity/</guid>
+      <description>Elon Musk: Neuralink and the Future of Humanity 分享这篇访谈字幕的缘由是看到了下面的图片， Raptor发动机的进化过程。 我不禁在想， 最优的解决方案是发明还是发现？不论如何， 这个过程都体现了工程学上的重大价值。尽管对EM本人的行事风格持保留态度。&#xA;Lex Fridman和Elon Musk的访谈，全程8.5小时。 推荐可用的情况下观看原视频：(394) Elon Musk: Neuralink and the Future of Humanity | Lex Fridman Podcast #438 - YouTube&#xA;版权属于原作者，本文仅供交流学习使用，推荐观看原视频。&#xA;以下是与Elon Musk的对话，讨论Neuralink和人类的未来。&#xA;Elon、DJ、Matthew和Bliss当然是惊人的Neuralink团队的一部分，Nolan是第一个在脑中植入Neuralink设备的人。&#xA;我与他们每个人进行了单独的交谈，可以使用时间戳跳转，也可以像我推荐的那样，尽情享受整段对话。&#xA;这是我做过的最长的播客，它是一段引人入胜、极具技术性和广泛的话题讨论，我喜欢每一分钟。&#xA;现在，亲爱的朋友们，欢迎Elon Musk，这是他第五次出现在Lex Fridman播客上，他正在喝咖啡或水。&#xA;水，我现在咖啡因摄入过量。&#xA;你想要一些咖啡因吗？&#xA;我倒是可以，那里有一种Nitro饮料，听说可以让你一直保持清醒，直到明天下午。&#xA;嗯，我不知道Nitro是什么。&#xA;它就是含有大量咖啡因之类的东西，不要问太多问题，反正它叫Nitro。&#xA;你需要知道别的吗？里面有氮。&#xA;这太荒谬了，我的意思是我们呼吸的空气中就有78%的氮，额外加一点有什么意义呢？&#xA;大多数人认为自己在呼吸氧气，实际上他们吸入的是78%的氮气。&#xA;你需要像《发条橙》里的那种牛奶吧？&#xA;是的，那是你的库布里电影前三名之一吗？《发条橙》还不错，我是说它很疯狂，令人震惊。&#xA;好的，首先我要祝贺你们将Neuralink植入人脑，这是Neuralink历史性的一步。&#xA;是的，我们还有许多更多的进展。&#xA;我们显然已经进行了第二次植入，情况怎么样？&#xA;到目前为止很好，看起来我们已经有大约400个电极在提供信号。&#xA;太好了！&#xA;你认为人类参与者的数量会多快增长？&#xA;这在某种程度上取决于监管审批，我们获取监管审批的速度。&#xA;所以我们希望在今年年底前完成10个，总共10个，还剩八个。&#xA;每进行一次植入，你都会学到很多关于神经生物学、大脑以及整个Neuralink链条的知识，解码、信号处理等等。&#xA;是的，我认为随着每次植入，情况显然会越来越好。&#xA;我不想带来厄运，但第二次植入似乎非常成功，信号很多，电极工作得非常好。&#xA;在接下来的几年里，你认为我们会看到Neuralink有什么改进？&#xA;如果要说疯狂一点的话，未来几年将是巨大的变化。&#xA;因为我们会显著增加电极的数量。&#xA;我们会改善信号处理。&#xA;你知道，即使只有大约10%到15%的电极在工作，和Nolan，我们的第一位病人一起，我们也能够实现每秒比特率，这已是世界纪录的两倍。&#xA;所以我认为未来几年我们会大幅超越世界纪录很多倍，可能达到每秒100比特。&#xA;五年后，也许我们可能会达到每秒兆，比任何人通过打字或说话交流的速度都快。&#xA;是的，每秒比特率是一个有趣的衡量标准。</description>
+    </item>
     <item>
       <title>US_Tbond_yield_surface</title>
-      <link>https://williamswang.win/posts/us_tbond_yield_surface/</link>
+      <link>http://localhost:1313/posts/us_tbond_yield_surface/</link>
       <pubDate>Sat, 03 Aug 2024 15:31:40 +0800</pubDate>
-      <guid>https://williamswang.win/posts/us_tbond_yield_surface/</guid>
+      <guid>http://localhost:1313/posts/us_tbond_yield_surface/</guid>
       <description>US T-bond Yield Surface From 1990 to 20240803 </description>
     </item>
     <item>
       <title>Preplexity_ceo_ai_internet</title>
-      <link>https://williamswang.win/posts/preplexity_ceo_ai_internet/</link>
+      <link>http://localhost:1313/posts/preplexity_ceo_ai_internet/</link>
       <pubDate>Fri, 02 Aug 2024 17:05:48 +0800</pubDate>
-      <guid>https://williamswang.win/posts/preplexity_ceo_ai_internet/</guid>
+      <guid>http://localhost:1313/posts/preplexity_ceo_ai_internet/</guid>
       <description>Aravind Srinivas: Perplexity CEO on Future of AI, Search &amp;amp; the Internet | Lex Fridman Podcast 原视频地址：https://youtu.be/e-gwvmhyU7A?si=r2zSPdfcfD83-mVr 版权属于原作者，本文仅供交流学习使用，推荐观看原视频。&#xA;你能和一个AI进行对话，让你感觉像在和爱因斯坦或费曼聊天吗？&#xA;嗯，或者你问他们一个困难的问题，他们会说“我不知道”，然后经过一周的研究，他们回来时就能让你大吃一惊。&#xA;如果我们能够实现那种推理计算的量级，从而导致更好的答案，随着推理计算的增加，我认为那将是现实推理突破的开始。&#xA;接下来是与Arvind Sivasankaran的对话，他是Perplexity的首席执行官，Perplexity是一家旨在革命化我们人类在互联网上获取问题答案方式的公司。&#xA;它将搜索和大型语言模型（LLMs）结合在一起，以产生答案，并且答案的每个部分都引用了网络上的人类创建的来源。&#xA;这大大减少了LLM的幻觉，使其在研究和出于好奇心的深夜探索中更易于使用且更可靠，我常常参与这种探索。&#xA;我强烈建议你试试看。Arvind之前是在伯克利的博士生，我们很久以前第一次见面，之后又在DeepMind Google和OpenAI担任研究科学家。&#xA;这次对话中有很多关于机器学习最前沿技术和检索增强生成（即RAG）、思维链推理、网络索引、用户体验设计等方面的令人着迷的技术细节。&#xA;我是Alex Rman，这是我们的播客。请查看下方描述中的赞助商。&#xA;现在，亲爱的朋友们，这里是Arvind。&#xA;Perplexity是部分搜索引擎，部分大型语言模型（LLM），那么它是如何工作的呢？&#xA;每个部分在最终结果中扮演什么角色，搜索和大型语言模型（LLM）？&#xA;Perplexity 最好被描述为一个答案引擎。&#xA;你问它一个问题，它给你一个答案。&#xA;不同之处在于，所有的答案都有来源支持。&#xA;这类似于学术写作时引用的方式。&#xA;引用的部分，也就是来源的部分，就是搜索引擎发挥作用的地方。&#xA;所以，你结合传统的搜索，提取与用户提出的查询相关的结果，&#xA;浏览链接，提取相关的段落，然后把它输入到一个 LLM 中。&#xA;LLM 代表大型语言模型，它会分析相关的段落，结合查询，&#xA;生成一个格式良好的答案，并为每一句话添加适当的注释。&#xA;因为它是被指示这样做的，&#xA;它被特别要求在给定一堆链接和段落的情况下，&#xA;为用户提供一个简洁的答案，附上适当的引用。&#xA;所以，所有这些组件共同工作，形成一个单一的协调产品，&#xA;这就是我们构建 Perplexity 的目的。&#xA;所以它被明确指示要像学术人士一样写作，&#xA;基本上，你在互联网上找到了很多资料，现在生成一个连贯的内容，&#xA;同时引用你在互联网上找到的资料。&#xA;当我写第一篇论文时，&#xA;我合作的高级人员告诉我一件深刻的事情：&#xA;每一句你在论文中写的句子都应该有引用。&#xA;引用应该来自另一篇经过同行评审的论文或你自己论文中的实验证据。&#xA;在论文中你说的任何其他内容更像是个人观点。&#xA;这虽然是个很简单的说法，但它非常深刻，&#xA;迫使你只能说出那些真实的内容。&#xA;我们采纳了这个原则，问自己，&#xA;有什么办法可以让聊天机器人更准确？&#xA;就是强迫它只说出可以在互联网上找到的信息，并且来自多个来源。&#xA;所以，这种想法不仅仅是“哦，让我们试试这个&amp;quot;，&#xA;当我们开始这个创业时，大家都有很多问题，&#xA;因为我们都是完全的新手，之前从没构建过产品，&#xA;从未创立过初创企业。</description>
     </item>
     <item>
       <title>Boolean_Calculator</title>
-      <link>https://williamswang.win/posts/boolean_calculator/</link>
+      <link>http://localhost:1313/posts/boolean_calculator/</link>
       <pubDate>Tue, 30 Jul 2024 19:42:24 +0800</pubDate>
-      <guid>https://williamswang.win/posts/boolean_calculator/</guid>
+      <guid>http://localhost:1313/posts/boolean_calculator/</guid>
       <description>Boolean Calculator Boolean Claculator</description>
     </item>
     <item>
       <title>CNN_tools</title>
-      <link>https://williamswang.win/posts/cnn_tools/</link>
+      <link>http://localhost:1313/posts/cnn_tools/</link>
       <pubDate>Thu, 25 Jul 2024 13:23:42 +0800</pubDate>
-      <guid>https://williamswang.win/posts/cnn_tools/</guid>
+      <guid>http://localhost:1313/posts/cnn_tools/</guid>
       <description>CNN tools CNN Dimension Calculator CNN Dimension Calculator&#xA;More Tools&amp;hellip; </description>
     </item>
     <item>
       <title>Quantitative Finance Tools</title>
-      <link>https://williamswang.win/posts/quantitative-finance-tools/</link>
+      <link>http://localhost:1313/posts/quantitative-finance-tools/</link>
       <pubDate>Thu, 18 Jul 2024 16:52:01 +0800</pubDate>
-      <guid>https://williamswang.win/posts/quantitative-finance-tools/</guid>
+      <guid>http://localhost:1313/posts/quantitative-finance-tools/</guid>
       <description>Quantitative Finance Tools 基于2步二叉树计算期权 美式call option 美式put option 欧式call option 欧式put option 有效前沿模拟 模拟基于蒙特卡洛模拟&#xA;基于2资产的有效前沿 基于3资产的有效前沿 二元高斯分布的3D绘图 二元高斯&#xA;利率模型 CIR model vasicek model BSM模型 无股利BSM 离散股利BSM 连续股利BSM To Do 其他小工具陆续上线&amp;hellip;</description>
     </item>
     <item>
       <title>My First Post</title>
-      <link>https://williamswang.win/posts/my-first-post/</link>
+      <link>http://localhost:1313/posts/my-first-post/</link>
       <pubDate>Thu, 18 Jul 2024 15:24:28 +0800</pubDate>
-      <guid>https://williamswang.win/posts/my-first-post/</guid>
+      <guid>http://localhost:1313/posts/my-first-post/</guid>
       <description>Welcome to my blog </description>
-    </item>
-    <item>
-      <title></title>
-      <link>https://williamswang.win/posts/elon_musk_humanity/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://williamswang.win/posts/elon_musk_humanity/</guid>
-      <description>title = &amp;lsquo;Elon_musk_humanity&amp;rsquo; date = 2024-08-04T17:57:39+08:00 draft = false&#xA;+++&#xA;Elon Musk: Neuralink and the Future of Humanity 分享这篇访谈字幕的缘由是看到了下面的图片， Raptor发动机的进化过程。 我不禁在想， 最优的解决方案是发明还是发现？不论如何， 这个过程都体现了工程学上的重大价值。尽管对EM本人的行事风格持保留态度。&#xA;Lex Fridman和Elon Musk的访谈，全程8.5小时。 推荐可用的情况下观看原视频：(394) Elon Musk: Neuralink and the Future of Humanity | Lex Fridman Podcast #438 - YouTube&#xA;版权属于原作者，本文仅供交流学习使用，推荐观看原视频。&#xA;以下是与Elon Musk的对话，讨论Neuralink和人类的未来。&#xA;Elon、DJ、Matthew和Bliss当然是惊人的Neuralink团队的一部分，Nolan是第一个在脑中植入Neuralink设备的人。&#xA;我与他们每个人进行了单独的交谈，可以使用时间戳跳转，也可以像我推荐的那样，尽情享受整段对话。&#xA;这是我做过的最长的播客，它是一段引人入胜、极具技术性和广泛的话题讨论，我喜欢每一分钟。&#xA;现在，亲爱的朋友们，欢迎Elon Musk，这是他第五次出现在Lex Fridman播客上，他正在喝咖啡或水。&#xA;水，我现在咖啡因摄入过量。&#xA;你想要一些咖啡因吗？&#xA;我倒是可以，那里有一种Nitro饮料，听说可以让你一直保持清醒，直到明天下午。&#xA;嗯，我不知道Nitro是什么。&#xA;它就是含有大量咖啡因之类的东西，不要问太多问题，反正它叫Nitro。&#xA;你需要知道别的吗？里面有氮。&#xA;这太荒谬了，我的意思是我们呼吸的空气中就有78%的氮，额外加一点有什么意义呢？&#xA;大多数人认为自己在呼吸氧气，实际上他们吸入的是78%的氮气。&#xA;你需要像《发条橙》里的那种牛奶吧？&#xA;是的，那是你的库布里电影前三名之一吗？《发条橙》还不错，我是说它很疯狂，令人震惊。&#xA;好的，首先我要祝贺你们将Neuralink植入人脑，这是Neuralink历史性的一步。&#xA;是的，我们还有许多更多的进展。&#xA;我们显然已经进行了第二次植入，情况怎么样？&#xA;到目前为止很好，看起来我们已经有大约400个电极在提供信号。&#xA;太好了！&#xA;你认为人类参与者的数量会多快增长？&#xA;这在某种程度上取决于监管审批，我们获取监管审批的速度。&#xA;所以我们希望在今年年底前完成10个，总共10个，还剩八个。&#xA;每进行一次植入，你都会学到很多关于神经生物学、大脑以及整个Neuralink链条的知识，解码、信号处理等等。</description>
     </item>
   </channel>
 </rss>
