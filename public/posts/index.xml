@@ -2,59 +2,66 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Williams Wang Site</title>
-    <link>http://localhost:1313/posts/</link>
+    <link>https://williamswang.win/posts/</link>
     <description>Recent content in Posts on Williams Wang Site</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 04 Aug 2024 19:16:23 +0800</lastBuildDate>
-    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 16 Jan 2025 18:48:55 +0800</lastBuildDate>
+    <atom:link href="https://williamswang.win/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Elon_musk_humanity</title>
-      <link>http://localhost:1313/posts/elon_musk_humanity/</link>
-      <pubDate>Sun, 04 Aug 2024 19:16:23 +0800</pubDate>
-      <guid>http://localhost:1313/posts/elon_musk_humanity/</guid>
-      <description>&lt;h1 id=&#34;elon-musk-neuralink-and-the-future-of-humanity&#34;&gt;Elon Musk: Neuralink and the Future of Humanity&lt;/h1&gt;&#xA;&lt;p&gt;分享这篇访谈字幕的缘由是看到了下面的图片， Raptor发动机的进化过程。 我不禁在想， 最优的解决方案是发明还是发现？不论如何， 这个过程都体现了工程学上的重大价值。尽管对EM本人的行事风格持保留态度。&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/km9CPhm.jpeg&#34; alt=&#34;raptor&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Lex Fridman和Elon Musk的访谈，全程8.5小时。&#xA;推荐可用的情况下观看原视频：(394) Elon Musk: Neuralink and the Future of Humanity | Lex Fridman Podcast #438 - YouTube&lt;/p&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;p&gt;版权属于原作者，本文仅供交流学习使用，推荐观看原视频。&lt;/p&gt;&#xA;&lt;p&gt;以下是与Elon Musk的对话，讨论Neuralink和人类的未来。&lt;/p&gt;&#xA;&lt;p&gt;Elon、DJ、Matthew和Bliss当然是惊人的Neuralink团队的一部分，Nolan是第一个在脑中植入Neuralink设备的人。&lt;/p&gt;&#xA;&lt;p&gt;我与他们每个人进行了单独的交谈，可以使用时间戳跳转，也可以像我推荐的那样，尽情享受整段对话。&lt;/p&gt;&#xA;&lt;p&gt;这是我做过的最长的播客，它是一段引人入胜、极具技术性和广泛的话题讨论，我喜欢每一分钟。&lt;/p&gt;&#xA;&lt;p&gt;现在，亲爱的朋友们，欢迎Elon Musk，这是他第五次出现在Lex Fridman播客上，他正在喝咖啡或水。&lt;/p&gt;&#xA;&lt;p&gt;水，我现在咖啡因摄入过量。&lt;/p&gt;&#xA;&lt;p&gt;你想要一些咖啡因吗？&lt;/p&gt;&#xA;&lt;p&gt;我倒是可以，那里有一种Nitro饮料，听说可以让你一直保持清醒，直到明天下午。&lt;/p&gt;&#xA;&lt;p&gt;嗯，我不知道Nitro是什么。&lt;/p&gt;&#xA;&lt;p&gt;它就是含有大量咖啡因之类的东西，不要问太多问题，反正它叫Nitro。&lt;/p&gt;&#xA;&lt;p&gt;你需要知道别的吗？里面有氮。&lt;/p&gt;&#xA;&lt;p&gt;这太荒谬了，我的意思是我们呼吸的空气中就有78%的氮，额外加一点有什么意义呢？&lt;/p&gt;&#xA;&lt;p&gt;大多数人认为自己在呼吸氧气，实际上他们吸入的是78%的氮气。&lt;/p&gt;&#xA;&lt;p&gt;你需要像《发条橙》里的那种牛奶吧？&lt;/p&gt;&#xA;&lt;p&gt;是的，那是你的库布里电影前三名之一吗？《发条橙》还不错，我是说它很疯狂，令人震惊。&lt;/p&gt;&#xA;&lt;p&gt;好的，首先我要祝贺你们将Neuralink植入人脑，这是Neuralink历史性的一步。&lt;/p&gt;&#xA;&lt;p&gt;是的，我们还有许多更多的进展。&lt;/p&gt;&#xA;&lt;p&gt;我们显然已经进行了第二次植入，情况怎么样？&lt;/p&gt;&#xA;&lt;p&gt;到目前为止很好，看起来我们已经有大约400个电极在提供信号。&lt;/p&gt;&#xA;&lt;p&gt;太好了！&lt;/p&gt;&#xA;&lt;p&gt;你认为人类参与者的数量会多快增长？&lt;/p&gt;&#xA;&lt;p&gt;这在某种程度上取决于监管审批，我们获取监管审批的速度。&lt;/p&gt;&#xA;&lt;p&gt;所以我们希望在今年年底前完成10个，总共10个，还剩八个。&lt;/p&gt;&#xA;&lt;p&gt;每进行一次植入，你都会学到很多关于神经生物学、大脑以及整个Neuralink链条的知识，解码、信号处理等等。&lt;/p&gt;&#xA;&lt;p&gt;是的，我认为随着每次植入，情况显然会越来越好。&lt;/p&gt;&#xA;&lt;p&gt;我不想带来厄运，但第二次植入似乎非常成功，信号很多，电极工作得非常好。&lt;/p&gt;&#xA;&lt;p&gt;在接下来的几年里，你认为我们会看到Neuralink有什么改进？&lt;/p&gt;&#xA;&lt;p&gt;如果要说疯狂一点的话，未来几年将是巨大的变化。&lt;/p&gt;</description>
+      <title>尘缘</title>
+      <link>https://williamswang.win/posts/%E5%B0%98%E7%BC%98/</link>
+      <pubDate>Thu, 16 Jan 2025 18:48:55 +0800</pubDate>
+      <guid>https://williamswang.win/posts/%E5%B0%98%E7%BC%98/</guid>
+      <description>&lt;h1 id=&#34;尘&#34;&gt;尘&lt;/h1&gt;&#xA;&lt;p&gt;尘缘未了，修不成佛&lt;/p&gt;&#xA;&lt;p&gt;世间只有心满意足后的尘缘已了， 而后得到解脱。 断无尘缘未了，心思未定，却硬说解脱的道理。&lt;/p&gt;&#xA;&lt;p&gt;尘缘未了，就在尘缘中修行罢。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>2025progressbar</title>
+      <link>https://williamswang.win/posts/2025progressbar/</link>
+      <pubDate>Mon, 13 Jan 2025 09:31:53 +0800</pubDate>
+      <guid>https://williamswang.win/posts/2025progressbar/</guid>
+      <description>&lt;h1 id=&#34;2025-progress-bar&#34;&gt;2025 Progress Bar&lt;/h1&gt;&#xA;&lt;p&gt;As the new year begins, I wanted to share an interactive project that visualizes our progress throughout 2025: the &lt;strong&gt;2025 Progress Bar&lt;/strong&gt;. This project combines a dynamic progress bar with playful animations and a countdown to the end of the year.&lt;/p&gt;&#xA;&lt;h3 id=&#34;live-demo&#34;&gt;Live Demo&lt;/h3&gt;&#xA;&lt;p&gt;You can view the live demo of this project at:&lt;/p&gt;&#xA;&lt;p&gt;👉 &lt;strong&gt;&lt;a href=&#34;https://2025progressbar.williamswang.win&#34;&gt;https://2025progressbar.williamswang.win&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>GPUmemoryestimator</title>
+      <link>https://williamswang.win/posts/gpumemoryestimator/</link>
+      <pubDate>Sun, 12 Jan 2025 19:21:08 +0800</pubDate>
+      <guid>https://williamswang.win/posts/gpumemoryestimator/</guid>
+      <description>&lt;h1 id=&#34;gpu-memory-estimator-for-llm&#34;&gt;GPU memory estimator for LLM&lt;/h1&gt;&#xA;&lt;p&gt;This is a tool designed to help you estimate GPU memory requirements for large language models (LLMs) based on the number of parameters and precision settings. It can be accessed via the following link:&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://gpumemoryestimator.williamswang.win&#34;&gt;Visit GPU Memory Estimator&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;By providing the parameter count and precision, you can quickly get an estimate of the GPU VRAM required to run the model efficiently.&lt;/p&gt;</description>
     </item>
     <item>
       <title>US_Tbond_yield_surface</title>
-      <link>http://localhost:1313/posts/us_tbond_yield_surface/</link>
+      <link>https://williamswang.win/posts/us_tbond_yield_surface/</link>
       <pubDate>Sat, 03 Aug 2024 15:31:40 +0800</pubDate>
-      <guid>http://localhost:1313/posts/us_tbond_yield_surface/</guid>
+      <guid>https://williamswang.win/posts/us_tbond_yield_surface/</guid>
       <description>&lt;h1 id=&#34;us-t-bond-yield-surface-from-1990-to-20240803&#34;&gt;US T-bond Yield Surface From 1990 to 20240803&lt;/h1&gt;&#xA;&lt;div style=&#34;width: 100%; height: 800px;&#34;&gt;&#xA;    &lt;iframe src=&#34;../yield_curve_20240803.html&#34; width=&#34;100%&#34; height=&#34;100%&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;&#xA;&lt;/div&gt;</description>
     </item>
     <item>
-      <title>Preplexity_ceo_ai_internet</title>
-      <link>http://localhost:1313/posts/preplexity_ceo_ai_internet/</link>
-      <pubDate>Fri, 02 Aug 2024 17:05:48 +0800</pubDate>
-      <guid>http://localhost:1313/posts/preplexity_ceo_ai_internet/</guid>
-      <description>&lt;h1 id=&#34;aravind-srinivas-perplexity-ceo-on-future-of-ai-search--the-internet--lex-fridman-podcast&#34;&gt;Aravind Srinivas: Perplexity CEO on Future of AI, Search &amp;amp; the Internet | Lex Fridman Podcast&lt;/h1&gt;&#xA;&lt;p&gt;原视频地址：https://youtu.be/e-gwvmhyU7A?si=r2zSPdfcfD83-mVr&#xA;版权属于原作者，本文仅供交流学习使用，推荐观看原视频。&lt;/p&gt;&#xA;&lt;p&gt;你能和一个AI进行对话，让你感觉像在和爱因斯坦或费曼聊天吗？&lt;/p&gt;&#xA;&lt;p&gt;嗯，或者你问他们一个困难的问题，他们会说“我不知道”，然后经过一周的研究，他们回来时就能让你大吃一惊。&lt;/p&gt;&#xA;&lt;p&gt;如果我们能够实现那种推理计算的量级，从而导致更好的答案，随着推理计算的增加，我认为那将是现实推理突破的开始。&lt;/p&gt;&#xA;&lt;p&gt;接下来是与Arvind Sivasankaran的对话，他是Perplexity的首席执行官，Perplexity是一家旨在革命化我们人类在互联网上获取问题答案方式的公司。&lt;/p&gt;&#xA;&lt;p&gt;它将搜索和大型语言模型（LLMs）结合在一起，以产生答案，并且答案的每个部分都引用了网络上的人类创建的来源。&lt;/p&gt;&#xA;&lt;p&gt;这大大减少了LLM的幻觉，使其在研究和出于好奇心的深夜探索中更易于使用且更可靠，我常常参与这种探索。&lt;/p&gt;&#xA;&lt;p&gt;我强烈建议你试试看。Arvind之前是在伯克利的博士生，我们很久以前第一次见面，之后又在DeepMind Google和OpenAI担任研究科学家。&lt;/p&gt;&#xA;&lt;p&gt;这次对话中有很多关于机器学习最前沿技术和检索增强生成（即RAG）、思维链推理、网络索引、用户体验设计等方面的令人着迷的技术细节。&lt;/p&gt;&#xA;&lt;p&gt;我是Alex Rman，这是我们的播客。请查看下方描述中的赞助商。&lt;/p&gt;&#xA;&lt;p&gt;现在，亲爱的朋友们，这里是Arvind。&lt;/p&gt;&#xA;&lt;p&gt;Perplexity是部分搜索引擎，部分大型语言模型（LLM），那么它是如何工作的呢？&lt;/p&gt;&#xA;&lt;p&gt;每个部分在最终结果中扮演什么角色，搜索和大型语言模型（LLM）？&lt;/p&gt;&#xA;&lt;p&gt;Perplexity 最好被描述为一个答案引擎。&lt;/p&gt;&#xA;&lt;p&gt;你问它一个问题，它给你一个答案。&lt;/p&gt;&#xA;&lt;p&gt;不同之处在于，所有的答案都有来源支持。&lt;/p&gt;&#xA;&lt;p&gt;这类似于学术写作时引用的方式。&lt;/p&gt;&#xA;&lt;p&gt;引用的部分，也就是来源的部分，就是搜索引擎发挥作用的地方。&lt;/p&gt;&#xA;&lt;p&gt;所以，你结合传统的搜索，提取与用户提出的查询相关的结果，&lt;/p&gt;&#xA;&lt;p&gt;浏览链接，提取相关的段落，然后把它输入到一个 LLM 中。&lt;/p&gt;&#xA;&lt;p&gt;LLM 代表大型语言模型，它会分析相关的段落，结合查询，&lt;/p&gt;&#xA;&lt;p&gt;生成一个格式良好的答案，并为每一句话添加适当的注释。&lt;/p&gt;&#xA;&lt;p&gt;因为它是被指示这样做的，&lt;/p&gt;&#xA;&lt;p&gt;它被特别要求在给定一堆链接和段落的情况下，&lt;/p&gt;&#xA;&lt;p&gt;为用户提供一个简洁的答案，附上适当的引用。&lt;/p&gt;&#xA;&lt;p&gt;所以，所有这些组件共同工作，形成一个单一的协调产品，&lt;/p&gt;&#xA;&lt;p&gt;这就是我们构建 Perplexity 的目的。&lt;/p&gt;&#xA;&lt;p&gt;所以它被明确指示要像学术人士一样写作，&lt;/p&gt;&#xA;&lt;p&gt;基本上，你在互联网上找到了很多资料，现在生成一个连贯的内容，&lt;/p&gt;&#xA;&lt;p&gt;同时引用你在互联网上找到的资料。&lt;/p&gt;&#xA;&lt;p&gt;当我写第一篇论文时，&lt;/p&gt;&#xA;&lt;p&gt;我合作的高级人员告诉我一件深刻的事情：&lt;/p&gt;&#xA;&lt;p&gt;每一句你在论文中写的句子都应该有引用。&lt;/p&gt;&#xA;&lt;p&gt;引用应该来自另一篇经过同行评审的论文或你自己论文中的实验证据。&lt;/p&gt;&#xA;&lt;p&gt;在论文中你说的任何其他内容更像是个人观点。&lt;/p&gt;&#xA;&lt;p&gt;这虽然是个很简单的说法，但它非常深刻，&lt;/p&gt;&#xA;&lt;p&gt;迫使你只能说出那些真实的内容。&lt;/p&gt;&#xA;&lt;p&gt;我们采纳了这个原则，问自己，&lt;/p&gt;&#xA;&lt;p&gt;有什么办法可以让聊天机器人更准确？&lt;/p&gt;&#xA;&lt;p&gt;就是强迫它只说出可以在互联网上找到的信息，并且来自多个来源。&lt;/p&gt;&#xA;&lt;p&gt;所以，这种想法不仅仅是“哦，让我们试试这个&amp;quot;，&lt;/p&gt;&#xA;&lt;p&gt;当我们开始这个创业时，大家都有很多问题，&lt;/p&gt;&#xA;&lt;p&gt;因为我们都是完全的新手，之前从没构建过产品，&lt;/p&gt;&#xA;&lt;p&gt;从未创立过初创企业。&lt;/p&gt;</description>
-    </item>
-    <item>
       <title>Boolean_Calculator</title>
-      <link>http://localhost:1313/posts/boolean_calculator/</link>
+      <link>https://williamswang.win/posts/boolean_calculator/</link>
       <pubDate>Tue, 30 Jul 2024 19:42:24 +0800</pubDate>
-      <guid>http://localhost:1313/posts/boolean_calculator/</guid>
+      <guid>https://williamswang.win/posts/boolean_calculator/</guid>
       <description>&lt;h1 id=&#34;boolean-calculator&#34;&gt;Boolean Calculator&lt;/h1&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://booleancal.williamswang.win&#34;&gt;Boolean Claculator&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>CNN_tools</title>
-      <link>http://localhost:1313/posts/cnn_tools/</link>
+      <link>https://williamswang.win/posts/cnn_tools/</link>
       <pubDate>Thu, 25 Jul 2024 13:23:42 +0800</pubDate>
-      <guid>http://localhost:1313/posts/cnn_tools/</guid>
+      <guid>https://williamswang.win/posts/cnn_tools/</guid>
       <description>&lt;h1 id=&#34;cnn-tools&#34;&gt;CNN tools&lt;/h1&gt;&#xA;&lt;h2 id=&#34;cnn-dimension-calculator&#34;&gt;CNN Dimension Calculator&lt;/h2&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://cnndcal.williamswang.win&#34;&gt;CNN Dimension Calculator&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;more-tools&#34;&gt;More Tools&amp;hellip;&lt;/h2&gt;</description>
     </item>
     <item>
       <title>Quantitative Finance Tools</title>
-      <link>http://localhost:1313/posts/quantitative-finance-tools/</link>
+      <link>https://williamswang.win/posts/quantitative-finance-tools/</link>
       <pubDate>Thu, 18 Jul 2024 16:52:01 +0800</pubDate>
-      <guid>http://localhost:1313/posts/quantitative-finance-tools/</guid>
+      <guid>https://williamswang.win/posts/quantitative-finance-tools/</guid>
       <description>&lt;h1 id=&#34;quantitative-finance-tools&#34;&gt;Quantitative Finance Tools&lt;/h1&gt;&#xA;&lt;h2 id=&#34;基于2步二叉树计算期权&#34;&gt;基于2步二叉树计算期权&lt;/h2&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://a-call-binarytree.williamswang.win&#34;&gt;美式call option&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://a-put-binarytree.williamswang.win&#34;&gt;美式put option&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://e-call-binarytree.williamswang.win&#34;&gt;欧式call option&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://e-put-binarytree.williamswang.win&#34;&gt;欧式put option&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;h2 id=&#34;有效前沿模拟&#34;&gt;有效前沿模拟&lt;/h2&gt;&#xA;&lt;p&gt;模拟基于蒙特卡洛模拟&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://efficientfrontier.williamswang.win&#34;&gt;基于2资产的有效前沿&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://3efficientfrontier.williamswang.win&#34;&gt;基于3资产的有效前沿&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;h2 id=&#34;二元高斯分布的3d绘图&#34;&gt;二元高斯分布的3D绘图&lt;/h2&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://bi-gaussian.williamswang.win&#34;&gt;二元高斯&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;利率模型&#34;&gt;利率模型&lt;/h2&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://cirmodel.williamswang.win&#34;&gt;CIR model&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://vasicekmodel.williamswang.win&#34;&gt;vasicek model&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;h2 id=&#34;bsm模型&#34;&gt;BSM模型&lt;/h2&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://vbsm.williamswang.win&#34;&gt;无股利BSM&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://ddbsm.williamswang.win&#34;&gt;离散股利BSM&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://yybsm.williamswang.win&#34;&gt;连续股利BSM&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;h2 id=&#34;to-do&#34;&gt;To Do&lt;/h2&gt;&#xA;&lt;p&gt;其他小工具陆续上线&amp;hellip;&lt;/p&gt;</description>
     </item>
     <item>
       <title>My First Post</title>
-      <link>http://localhost:1313/posts/my-first-post/</link>
+      <link>https://williamswang.win/posts/my-first-post/</link>
       <pubDate>Thu, 18 Jul 2024 15:24:28 +0800</pubDate>
-      <guid>http://localhost:1313/posts/my-first-post/</guid>
+      <guid>https://williamswang.win/posts/my-first-post/</guid>
       <description>&lt;h1 id=&#34;welcome-to-my-blog&#34;&gt;Welcome to my blog&lt;/h1&gt;</description>
     </item>
   </channel>
