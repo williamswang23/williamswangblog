@@ -8,7 +8,7 @@ Blog Title: Token Speed Demo - Experience Token Generation in Real Time
 
 Introduction
 
-Welcome to Token Speed Demo, an interactive tool that allows you to experience token generation at different speeds. Deployed at [Tokenspeed](tokenspeed.williamswang.win), this web-based demo showcases how tokens are generated dynamically at user-defined speeds. Whether you’re curious about how AI models like ChatGPT generate tokens or simply want to visualize high-speed token creation, this tool has got you covered.
+Welcome to Token Speed Demo, an interactive tool that allows you to experience token generation at different speeds. Deployed at [Tokenspeed](https://tokenspeed.williamswang.win), this web-based demo showcases how tokens are generated dynamically at user-defined speeds. Whether you’re curious about how AI models like ChatGPT generate tokens or simply want to visualize high-speed token creation, this tool has got you covered.
 
 What Is Token Speed?
 
